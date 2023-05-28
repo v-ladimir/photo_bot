@@ -1,2 +1,2 @@
-# aiogram-bot-template
-Template for creating scalable bots with aiogram
+# photo_bot
+Bot to upload photos via telegram to personal mediaserver
